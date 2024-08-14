@@ -1,0 +1,46 @@
+{
+  "employees": [
+    {
+      "id": 1,
+      "fullName": "Vamsy Kiran",
+      "salary": "99493",
+      "department": "Java",
+      "role": "Software Engineer"
+    },
+    {
+      "id": 2,
+      "fullName": "KGN Murthy",
+      "salary": "444",
+      "department": "QA",
+      "role": "Junior Engineer"
+    },
+    {
+      "id": 3,
+      "fullName": "Suresh P",
+      "salary": "4444",
+      "department": "Pyton",
+      "role": "Senior"
+    },
+    {
+      "id": 4,
+      "fullName": "Ramesh P",
+      "salary": "3333",
+      "department": "Devops",
+      "role": "Architect"
+    },
+    {
+      "id": 5,
+      "fullName": "Krishna M",
+      "salary": "4444",
+      "department": "Aws",
+      "role": "Manager"
+    },
+    {
+      "id": 6,
+      "fullName": "mahaboob Basha",
+      "salary": "20000.0",
+      "department": "Ai",
+      "role": "Software Engineer"
+    }
+  ]
+}
